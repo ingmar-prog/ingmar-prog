@@ -3,17 +3,12 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
 ![](https://komarev.com/ghpvc/?username=ingmar-prog&color=blueviolet&style=flat&label=PROFILE+VIEWS&abbreviated=true)
 
-- 👋 Hi, I’m @ingmar-prog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :man_technologist: About Me :
+I am a System Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+### 🐺 Statistics:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingmar-prog&count_private=true&show_icons=true&theme=buefy)](https://github.com/ingmar-prog/ingmar-prog)
 

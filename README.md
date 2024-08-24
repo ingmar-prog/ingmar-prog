@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=ingmar-prog&color=blueviolet&style=flat&label=PROFILE+VIEWS&abbreviated=true)
 
 ### :man_technologist: About Me :
-I am a System Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a System Programmer from Russia.
 
 ### 🐺 Statistics:
 
